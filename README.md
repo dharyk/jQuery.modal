@@ -38,3 +38,8 @@ Usage:
 	
 	/* ENABLE THE POPUP AGAIN */
 	modal.busy(false);
+
+TODO:
+-----
+- multiple popups
+- callbacks
